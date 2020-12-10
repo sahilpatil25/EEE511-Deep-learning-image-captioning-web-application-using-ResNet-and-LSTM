@@ -22,6 +22,12 @@ We are using RESNET model to extract the features from the images. To train the 
 We have annotated captions and resized images ready with us. Now train the model on this resized images and annotated captions.
 To start the model training run the RESTApi/train.py file from the repository.
 
+## Note :
+If you are unable to train the model, use the following pretrained pickle files:
+1. Data/Vocab.pkl
+2. 
+
+
 ## Fifth step:
 ## Test the model:
 To test the model run the below command:

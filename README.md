@@ -4,7 +4,7 @@ To run the Image captioning application, firstly we need to train our model.
 
 ## First step
 
-User needs to clone the repository: https://github.com/sahilpatil25/EEE511-Deep-learning-image-captioning-web-application-using-ResNet-and-LSTM
+User needs to clone this repository.
 
 ## Second step:
 ## Dataset download:

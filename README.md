@@ -1,4 +1,4 @@
-# Image Captioning steps
+# Steps to run the application:
 
 To run the Image captioning application, firstly we need to train our model.
 
@@ -24,8 +24,8 @@ To start the model training run the RESTApi/train.py file from the repository.
 
 ## Note :
 If you are unable to train the model, use the following pretrained pickle files:
-1. Data/Vocab.pkl
-2. 
+1. RESTApi/data/Vocab.pkl - this file is already present in the repository.
+2. Download the trained encoder and decoder models from: https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0 and place these files in RESTApi/models directory.
 
 
 ## Fifth step:
